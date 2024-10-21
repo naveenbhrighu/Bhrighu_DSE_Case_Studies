@@ -1,6 +1,6 @@
-# Bhrighu DSML Case Studies
+# Bhrighu DSE Case Studies
 
-**Welcome to the Bhrighu DSML Case Studies Repository!**
+**Welcome to the Bhrighu DSE Case Studies Repository!**
 
 This repository contains a curated collection of Data Science and Machine Learning case studies developed for Bhrighu, a leading training company focused on delivering cutting-edge education in the field of Data Science and Artificial Intelligence. Each project is designed to solve real-world problems across various industries using modern data science techniques and tools.
 
