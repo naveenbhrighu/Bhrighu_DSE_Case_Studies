@@ -6,8 +6,14 @@ This repository contains a curated collection of Data Science and Machine Learni
 
 ## 📁 Repository Structure
 
+- **Chest Disease Detection (Deep Learning)**  
+  Utilize deep learning techniques to analyze chest disease data, providing insights for medical diagnosis and treatment plans.
+
 - **Customer Satisfaction Text Classification (NLP)**  
   Analyze customer feedback and classify text data using natural language processing (NLP) techniques. The case study emphasizes text analysis and sentiment detection in customer satisfaction data.
+  
+- **Customer Segmentation**  
+  Segment customers based on their behavior and preferences using data analysis and machine learning techniques, enabling targeted marketing strategies.
   
 - **Detection of Defects in Steel Imagery (Deep Learning)**  
   Employ deep learning methods to detect defects in steel imagery, providing automated quality control in manufacturing.
