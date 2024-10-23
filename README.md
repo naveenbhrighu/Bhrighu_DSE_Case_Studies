@@ -1,4 +1,4 @@
-# Bhrighu DSML Case Studies
+# Bhrighu DSE Case Studies
 
 **Welcome to the Bhrighu DSML Case Studies Repository!**
 
